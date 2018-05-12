@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25267
     wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
 description: 'Sequel is: His Master''s Voice, #48513.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24198#A-Spaceship-Named-McGuire
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-07'
 gutenberg_type: Text
